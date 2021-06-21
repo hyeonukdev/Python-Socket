@@ -9,13 +9,13 @@ The project includes a basic one-to-one connection, one-to-many connection, and 
 Python-Socket/
 ├── .idea
 ├── basic
-    ├── client.py
-    ├── server.py
+|    ├── client.py
+|    └── server.py
 ├── many
-    ├── many-client.py
-    ├── many-server.py
+|    ├── many-client.py
+|    └── many-server.py
 ├── multi
-    ├── multi-client.py
-    ├── multi-server.py
+|    ├── multi-client.py
+|    └──multi-server.py
 └── README.md
 ```
